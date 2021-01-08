@@ -5,3 +5,6 @@ Il était une fois une ville paisible habitée par des gens paisibles ayant des 
 Test "3 lines of text" Laeti
 Ces chèvres étaient décidément très bizarres. Non seulement elles s'exprimaient comme des informaticiens qui font des tests, mais en plus elle avaient un de ces swag ! Déjà qui dit swag en 2021 ?
 <br/>
+Vraiment, personne ne dit swag en 2021...
+Coolos ou mega grouv ça passe crème comme disent les jeuns.
+Mais swag ? trop vieux jeu, franchement.
