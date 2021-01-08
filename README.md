@@ -8,3 +8,6 @@ Ces chèvres étaient décidément très bizarres. Non seulement elles s'exprima
 Vraiment, personne ne dit swag en 2021...
 Coolos ou mega grouv ça passe crème comme disent les jeuns.
 Mais swag ? trop vieux jeu, franchement.
+
+Bien ou quoi le <div color="red">sang</div> ?
+
